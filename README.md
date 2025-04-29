@@ -10,5 +10,5 @@ This is a fun beginner neuroscience project that uses EEG brainwave data (simula
 - Plots your brain state in a Jupyter notebook
 
 ## Made by
-Sumeet — where neuroscience meets AI + ethics ✨
+Sumeet 
 
